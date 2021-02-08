@@ -1,2 +1,2 @@
-# ansible
-ansible/puppet plays and config for my homelab servers
+# infrastructure as code
+ansible, puppet, and terraform plays and config for my homelab servers
